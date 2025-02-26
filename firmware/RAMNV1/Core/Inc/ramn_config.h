@@ -18,7 +18,7 @@
 
 #ifndef INC_RAMN_CONFIG_H_
 #define INC_RAMN_CONFIG_H_
-
+#define TARGET_ECUD
 #if !defined(TARGET_ECUA) && !defined(TARGET_ECUB) && !defined(TARGET_ECUC) && !defined(TARGET_ECUD)
 #define TARGET_ECUA
 //#define TARGET_ECUB
